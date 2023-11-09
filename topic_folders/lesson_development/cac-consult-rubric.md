@@ -16,7 +16,7 @@ can be found on the respective Lesson Program websites.
 - Changes to episode timings
 - Changes to lesson text
 
-### Issues about which Maintainers should consult the CAC
+### Issues about which Maintainers should notify the CAC
 
 - Any new versions of a dataset (either a new release or a modification of existing data)
 - Any major adjustments to the lesson (e.g., episode order, passwordless access)

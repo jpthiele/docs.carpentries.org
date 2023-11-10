@@ -34,7 +34,7 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 * 24 August, Topic of the month: Changes to Instructor Checkout presented by Kelly Barnes
 * 28 September, Join us for the second event in our 25th anniversary celebration series spotlighting our subcommunities in Africa - [https://rb.gy/jiqsf](https://rb.gy/jiqsf)
 * 26 October, Topic of the month: Networking session with Toby Hodges
-* 23 November, Topic of the month: TBC
+* 23 November, Topic of the month: Your First issue in GitHub with Toby Hodges
 
 - **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them. If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org). We can pair you up with a team at a time and date that will suit you.
 

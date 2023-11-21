@@ -604,7 +604,7 @@ application has been placed on our waiting list while we grow our capacity.
 If you would like to become a Member, get in touch with memberships@carpentries.org to learn more about how we can help you make the case at
 your organisation. In the meantime, please get involved!  
   - Join our discussion email list (https://carpentries.topicbox.com/groups/discuss)
-  - Follow us on Twitter (@thecarpentries, @datacarpentry, @swcarpentry, and @libcarpentry)
+  - Follow us on Mastodon (hachyderm.io/@thecarpentries)
   - Help at a local workshop (https://carpentries.org/)
   - Learn about our community (https://carpentries.org/community/)
                  

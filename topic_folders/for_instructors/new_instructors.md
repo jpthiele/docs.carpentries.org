@@ -75,5 +75,5 @@ To request training as an Instructor, please fill out this [form](https://amy.ca
 Occasionally, open training events offered to the general public may be announced
 in our [mailing list](https://carpentries.topicbox.com/groups/discuss),
 newsletter, [*Carpentry Clippings*](http://eepurl.com/cfODMH), or through
-our [Twitter](https://twitter.com/thecarpentries) feed.
+our [Mastodon](hachyderm.io/@thecarpentries) feed.
 For all other events, seats are reserved for trainees affiliated with member institutions or admitted individually through our Open Instructor Training program.

@@ -9,15 +9,14 @@ Our monthly Carpentries in Africa community calls, hosted on the 4th Thursday of
 A global community of 4000 certified Instructors subscribe to our monthly newsletter, Carpentries Clippings, Slack channels and mailing lists. 
 
 
-### Looking back at 2022
+### Looking back at 2023
 
-1. **Nineteen** instructors from South Africa, Botswana, Tunisia, Tanzania and Kenya have been badged, with others also participating in the checkout process.
-2. **20** Carpentries workshops were hosted in South Africa, Ghana, Ethiopia and Kenya.
-3. **Three** new member organisations from South Africa and Namibia.
-4. Grew our instructor trainer base in Ethiopia
+1. **14** instructors from South Africa, Zimbabwe, Uganda, Kenya and Botswana have been badged, with others also participating in the checkout process.
+2. **18** Carpentries workshops were hosted in South Africa, Ghana, Ethiopia and Kenya.
+3. **Six** member organisations from South Africa and Namibia.
+4. Grew our instructor trainer base in South Africa
 5. [Glosario](https://glosario.carpentries.org) boasts with seven African languages: Afrikaans, Setswana, isiXhosa, isiZulu, አማርኛ, Kiswahili  and Southern Sotho. 
-6. Translated the opening and closing events of CarpentryConnect South Africa 2021 into [isiZulu and isiXhosa](https://www.google.com/url?q=https://www.codeforsociety.org/eventfund/updates/carpentries-connect-south-africa-2021-opening-and-closing-keynotes-now-available-in-isixhosa-and-isizulu&source=gmail&ust=1670282556546000&usg=AOvVaw3qsqjPS27Ga37NNcb7kden)
-7. You can read more about The Carpentries in Africa [here](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#blog-posts-and-other-carpentries-activities-in-africa).
+6. You can read more about The Carpentries in Africa [here](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#blog-posts-and-other-carpentries-activities-in-africa).
 
 ### What We Do
 

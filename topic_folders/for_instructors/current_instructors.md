@@ -27,13 +27,6 @@ These hour-long sessions are organised by
 the [Instructor Development Committee](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html) and
 serve a number of purposes. Trainee Instructors use them as part of their checkout process. There they can raise questions about teaching workshops and other matters and get advice from more experienced Instructors. All sessions are run by volunteers. Instructors preparing to teach can attend to ask questions, get tips, and find useful examples or analogies they can use. Instructors who have recently taught can attend to debrief about what went well, and what might have gone better, so they can plan for next time. Sessions are coordinated through this [Etherpad](https://pad.carpentries.org/community-discussions).
 
-### Mentoring Groups
-Mentoring is a professional development opportunity that The Carpentries offers our growing Instructor pool to help
-community members learn and grow. Whether you are a new Instructor preparing to teach your first workshop, a seasoned Instructor
-hoping to run workshops in a new community, or an Instructor excited about getting involved with lesson development and maintenance,
-mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal. Mentoring
-groups run in specified rounds at regular intervals. See
-the [Mentoring Groups section](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html) for more information.
 
 ### Carpentries Champions
 If you are interested in building a local community, then consider joining

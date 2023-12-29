@@ -17,7 +17,7 @@ Trainees who miss more than 1 hour of an Instructor Training event may be marked
 
 #### Makeup Meetings
 
-Trainees who miss up to 4 hours (1 half day) of an event can schedule a 50-minute 1:1 makeup meeting to complete their training with The Carpentries Director of Instructor Training. [Makeup meetings can be scheduled via Calendly.](https://calendly.com/karenword/ttt-makeups) Trainees who missed more than 4 hours of an event should not schedule a makeup meeting. (See Retaking a Training Event, below.)
+Trainees who miss up to 4 hours (1 half day) of an event can schedule a 50-minute 1:1 makeup meeting to complete their training with The Carpentries Director of Instructor Training. [Makeup meetings can be scheduled via Calendly.]([https://calendly.com/karenword/ttt-makeups](https://calendly.com/sheraaron/instructor-training-makeup) Trainees who missed more than 4 hours of an event should not schedule a makeup meeting. (See Retaking a Training Event, below.)
 
 To prepare for a makeup meeting, trainees should review all sections of the Instructor Training Curriculum that they missed and come prepared to share thoughts and questions about those sections.
 

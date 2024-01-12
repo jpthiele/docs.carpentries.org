@@ -27,7 +27,7 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 * 22 February, Topic of the Month: TBA
 * 28 March, Topic of the Month: TBA
 * 18 April, Topic of the Month: Networking Session
-* 23 May, Topic of the Month: TBA
+* 23 May, Topic of the Month: Glosario Hackathon
 * 27 June, Topic of the Month: TBA
 * 25 July, Topic of the Month: TBA
 * 22 August, Topic of the month: TBA

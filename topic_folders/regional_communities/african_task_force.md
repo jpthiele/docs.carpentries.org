@@ -11,8 +11,8 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 
 ### Looking back at 2023
 
-1. **14** instructors from South Africa, Zimbabwe, Uganda, Kenya and Botswana have been badged, with others also participating in the checkout process.
-2. **18** Carpentries workshops were hosted in South Africa, Ghana, Ethiopia and Kenya.
+1. **15** instructors from South Africa, Zimbabwe, Uganda, Kenya and Botswana have been badged, with others also participating in the checkout process.
+2. **19** Carpentries workshops were hosted in South Africa, Ghana, Ethiopia and Kenya.
 3. **Six** member organisations from South Africa and Namibia.
 4. Grew our instructor trainer base in South Africa
 5. [Glosario](https://glosario.carpentries.org) boasts with seven African languages: Afrikaans, Setswana, isiXhosa, isiZulu, አማርኛ, Kiswahili  and Southern Sotho. 
@@ -20,20 +20,20 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 
 ### What We Do
 
-- **Monthly African Community Meetup**: Hosted each 4th Thursday of the month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you want to join, please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
+- **Monthly African Community Meetup**: Hosted each 4th Thursday of the month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you want to join, please sign up at [collaborative document]([http://pad.software-carpentry.org/ZA-community-call](https://codimd.carpentries.org/69NZJLzLSKCZakTPsWpo7Q?both)).
 
-**2023 meetings**:
-* 26 January, Topic of the Month: What does 2023 hold for The Carpentries
-* 23 February, Topic of the Month: Instructors and Carpentries Workshops
-* 23 March, Topic of the Month: The Workbench, presented by Toby Hodges
-* 20 April, Topic of the Month: Networking Session
-* 25 May, Topic of the Month: Carpentries Offline, presented by Jannetta Steyn
-* 22 June, Topic of the Month: My Career Path, presented by Ruth Nanjala
-* 27 July, Topic of the Month: HPC Carpentry: First entrant into The Carpentries' Lesson Program Incubator presented by  Alan O'Cais
-* 24 August, Topic of the month: Changes to Instructor Checkout presented by Kelly Barnes
-* 28 September, Join us for the second event in our 25th anniversary celebration series spotlighting our subcommunities in Africa - [https://rb.gy/jiqsf](https://rb.gy/jiqsf)
-* 26 October, Topic of the month: Networking session with Toby Hodges
-* 23 November, Topic of the month: Your First issue in GitHub with Toby Hodges
+**2024 meetings**:
+* 25 January, Topic of the Month: Reigniting The Carpentries discussion by Angelique Trusler and Kari Jordan
+* 22 February, Topic of the Month: TBA
+* 28 March, Topic of the Month: TBA
+* 18 April, Topic of the Month: Networking Session
+* 23 May, Topic of the Month: TBA
+* 27 June, Topic of the Month: TBA
+* 25 July, Topic of the Month: TBA
+* 22 August, Topic of the month: TBA
+* 26 September, Topic of the month: TBA
+* 24 October, Topic of the month: Networking session 
+* 28 November, Topic of the month: 2024 Retrospective
 
 - **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them. If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org). We can pair you up with a team at a time and date that will suit you.
 
@@ -65,6 +65,8 @@ Since then, more than 180 African instructors have participated in online or in-
 
 ### Blog posts and other Carpentries activities in Africa
 
+- [#Carpentries25 Testimonial Series: Jean Baptiste Fankam Fankam](https://carpentries.org/blog/2023/09/carpentries25-testimonial-series-jean-baptiste-fankam-fankam/) by Jean Baptiste Fankam Fankam
+- [Wins and Challenges of Running a Carpentry Workshop in South Africa during Load shedding](https://carpentries.org/blog/2023/05/Wins-and-Challenges-of-Running-a-Carpentry-Workshop-in-South-Africa-during-Load-shedding/) by Angelique Trusler, Alphonce Bere, Mpilo Khumalo and Gorata Bridget Malose
 - [Resources to begin your journey with R](https://www.youtube.com/watch?v=pJaPHx8Fxrw) by Angelique Trusler
 - [Looking back at PyCon Namibia 2023](https://na.pycon.org/2023/)
 -  [Data Science and Machine Learning at PyCon Namibia 2023](https://medium.com/ubuntu-ai/data-science-and-machine-learning-at-pycon-namibia-2023-dbf0990cee1d) by Andreea Munteanu

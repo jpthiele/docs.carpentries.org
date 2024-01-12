@@ -20,7 +20,7 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 
 ### What We Do
 
-- **Monthly African Community Meetup**: Hosted each 4th Thursday of the month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you want to join, please sign up at [collaborative document](http://pad.software-carpentry.org/ZA-community-call](https://codimd.carpentries.org/69NZJLzLSKCZakTPsWpo7Q?both).
+- **Monthly African Community Meetup**: Hosted each 4th Thursday of the month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you want to join, please sign up at [collaborative document](https://codimd.carpentries.org/69NZJLzLSKCZakTPsWpo7Q?both).
 
 **2024 meetings**:
 * 25 January, Topic of the Month: Reigniting The Carpentries discussion by Angelique Trusler and Kari Jordan

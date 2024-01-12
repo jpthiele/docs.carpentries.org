@@ -25,7 +25,7 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 **2024 meetings**:
 * 25 January, Topic of the Month: Reigniting The Carpentries discussion by Angelique Trusler and Kari Jordan
 * 22 February, Topic of the Month: TBA
-* 28 March, Topic of the Month: TBA
+* 28 March, Topic of the Month: Self-organised vs Centrally-organised workshops by Angelique Trusler
 * 18 April, Topic of the Month: Networking Session
 * 23 May, Topic of the Month: Glosario Hackathon
 * 27 June, Topic of the Month: TBA

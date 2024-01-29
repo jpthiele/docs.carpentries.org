@@ -32,11 +32,11 @@ The Program Committee approves and monitors The Carpentries programs and service
 ### Contacting the Board
 Contact the Board by [sending an email](mailto:board@carpentries.org) or by [filling in this form](https://docs.google.com/document/d/1xXVQIfUz0hV6I2VKUawXro2n7ioN5tBFbW0FBTZ8FiU/).
 
-### Executive Council Documentation
+### Board Documentation
 
-The [Executive Council Handbook](https://docs.google.com/document/d/1QMw9rLhrWJardj-59tVr4JmpHH4o5O8O6i_73H2IKfo/edit) includes the following information:
+The [Board Handbook](#) includes the following information:
 
-- Roles and responsibilities of Executive Council Members
+- Roles and responsibilities of Board Members
 - Onboarding documentation
 - Offboarding documentation
 - Communication and collaboration spaces

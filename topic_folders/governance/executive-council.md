@@ -10,70 +10,24 @@ The Board is responsible for strategic and organisational planning, selecting th
 - Provide feedback and vote on formal motions 
 - Dedicate four to six volunteer hours per month toward Carpentries activities (including meeting attendance)
 
-
-
 ### Executive Council Officers
 
-Executive Council officers are selected at the first regular meeting following election and appointment of new members and serve one year terms. Officer positions include:
+Roles and responsibilities for Executive Council Officers are described in the [bylaws](https://carpentries.org/governance/#bylaws).
 
-* Chair
-* Vice Chair
-* Secretary
-* Treasurer
+### Board of Directors Standing Committees
+Each Board member is expected to serve on at least one, but no more than two standing committees. Serving on a specific standing committee allows Board members to bring their subject matter expertise to specific governance and operational priorities, deal with issues and projects more effectively and efficiently, and maximise time and resources between meetings. The current standing committees are described below.
 
-Roles and responsibilities for Executive Council Officers are described in the [bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#officers).
+**Audit Committee**
+The Audit Committee assists the Board of Directors in fulfilling its oversight responsibility concerning (1) risk management and the adequacy of insurance coverage, (2) the financial reporting process, (3) the system of internal controls, (4) the audit process, and (5) the Organisation’s process for monitoring compliance with laws and regulations. The Committee appoints and manages an external (independent) auditor.
 
-### Executive Council Standing Committees
-As of January 2021, the following standing committee structure was implemented as a practical way to manage the work and engagement of the Executive Council:
+**Finance Committee**
+The Finance Committee assists the Board of Directors in fulfilling its oversight responsibility concerning the annual budget.
 
-- [Officers Committee](#officers-committee)
-- [Governance Committee](#governance-committee)
-- [Finance Committee](#finance-committee)
-- [Program Committee](#program-committee)
+**Governance & Personnel Committee**
+The Governance and Personnel Committee assists the Board in fulfilling its oversight responsibilities by creating and implementing sound compensation and personnel policies and practices and ongoing oversight of the Executive Director and Board efficacy, composition, onboarding, and recruitment. 
 
-Serving on a specific standing committee provides Executive Council members with the opportunity to bring their subject matter expertise to specific governance and operational priorities, deal with issues and projects more effectively and efficiently, and maximize time and resources between meetings. Each Executive Council member serves on at least one, but no more than two committees. When considered beneficial or necessary, these committees can have members from The Carpentries community and/or Core Team.
-
-In addition to the Standing committees, the Executive Council may appoint ad hoc committees to handle issues that are typically short-term and specialised in nature.
-
-#### Officers Committee
-This committee consists of the Executive Council Officers: Chair, Vice Chair, Secretary and Treasurer.
-
-**Roles & Responsibilities**
-- Act with full authority of the Executive Council between EC meetings when needed in urgent matters, subject to Executive Council imposed limitations on committee action either by ad hoc objection from any EC member or from a list of limitations specified in the bylaws. 
-- Prioritise the agenda of the Executive Council meetings. 
-- Monitor the performance of the Executive Director, conduct their annual performance review, and make recommendations to the Executive Council regarding the Executive Director’s performance goals for the subsequent year. 
-- Provide a sounding board to the Executive Director and serve as a source of ready advice on operating and personnel matters. 
-- Obtain and evaluate relevant compensation information and make a recommendation to the Executive Council regarding the Executive Director’s compensation (including all benefits). 
-- Provide support to the Executive Director and direction to the Executive Council on oversight of legal and operational issues. 
-- Lead Executive Council level oversight of the organization's long-term strategic plan and short-term annual planning, including annual review of strategic plan performance metrics against anticipated community end results (outcomes).
-
-#### Governance Committee
-This committee is chaired by the Vice Chair of the Executive Council.
-
-**Roles & Responsibilities**
-- Assess the Executive Council’s performance as the governing body of The Carpentries. 
-- Lead the writing, maintenance, and updates to the Carpentries bylaws; revise/re-approve the bylaws, as needed, according to the bylaws
-- Lead the process to identify, nominate, and onboard new Executive Council members.  
-- Suggest special committees/task forces as needed and prepare for their formation as per the [Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html#the-carpentries-committee-policy). 
-- Revise [Parliamentary Procedures for Executive Council Meetings](https://docs.google.com/document/d/1ywav0TY9F300lmQBFpsqQW4AR68H0-emkuImbG_2Mgs/edit#). 
-- Revise [The Carpentries Executive Council Elections: Timeline and Procedures](https://docs.google.com/document/d/1T_Smm8IOVVW3QUpOxYEFktebgup8vdxKPRY-TQOn1ho/edit#heading=h.97mnd6s3j6dc). 
-
-#### Finance Committee
-This committee is chaired by the Treasurer of the Executive Council.
-
-**Roles & Responsibilities**
-- Ensuring strong fiduciary oversight and financial management. 
-- Making sure financial reports are accurate. 
-- Overseeing the organisation’s budget.  
-- Identifying revenue streams and resource development. 
-- Advise on a strategy for establishing reserve funds, lines of credit, and short- and long-term investments. 
-
-#### Program Committee
-This committee can be chaired by any member of the Executive Council.
-
-**Roles & Responsibilities**
-- Approving and monitoring The Carpentries programs and services.
-- Make recommendations to strengthen programs and services in line with the Carpentries mission, vision, and strategic plan. 
+**Program Committee**
+The Program Committee approves and monitors The Carpentries programs and services.
 
 ### Contacting the Executive Council
 If you have a question or concern for the Executive Council, there are three ways to communicate with Executive Council Members:

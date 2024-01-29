@@ -44,29 +44,48 @@ The [Executive Council Handbook](https://docs.google.com/document/d/1QMw9rLhrWJa
 - Resources
 - Glossary of terms
 
-#### Executive Council transparency in decision making
+#### Board of Directors Decision Making Rubric 
 
-The Executive Council, the Core Team and the Executive Director [agreed](https://github.com/carpentries/executive-council-info/issues/61) on the following decision-making rubric:
+The following decision-making guidelines and examples provide transparency for when the Board of Directors should vote on governance matters. This list is intended to support the Board and Executive Director in assessing when an issue requires formal board approval, board review, or simply visibility to the Board. When delegated authority or committee area of work sets an item to the purview of a Board committee that has been noted. 
 
-_1. The Executive Council should vote on:_
+**This is not a comprehensive list. Examples are intended as a guide to support situating emergent issues in this framework.** 
 
-* The strategic plan: approving mid to long term strategic direction priorities (Mid term 1 year and long term 3-5 years). Include voting on strategic alliances with outside organisations
-* The yearly budget: oversee the yearly budget and annual financial reports
-* By-laws: modifying and approving official policy changes biannually
-* Mission, vision, and values: defining, updating and approving the public mission, vision, and values statements
-* Council-elected members: Policy to identifying, appointing, and removing/ replacing council-elected members when necessary
-* Executive director: Appointing/removing the Executive Director when necessary
+##### Approval Required
+**The Board of Directors, or a committee with delegated authority, must vote on the following items.** 
+*These items require a vote per The Carpentries by-laws, committee charters, or formal Board approval in alignment with nonprofit governance best practices.*
 
-_2. The Executive Council should advise on but not vote on:_
-* New staff appointments: Executive Council advice should continue to be considered alongside community members and The Core Team
-* Equity, inclusion and access matters
-* Approaches to growth in new regions
-* Formation of committees/sub communities, specially if they affect multiple communities
+- Annual budget
+- Appointing/removing the Executive Director
+- Adjustments to executive leadership compensation, as per the Executive Compensation policy.
+- New policies or changes to existing policies that govern the Board and organisation (including bylaws, conflict of interest policy, cash management policy, investment policy, executive compensation policy, directors and officers data policy, and other policies needed to govern the organisation)
+- Appointing/removing Board Directors, Officers, and Board advisors
+- High-level goals of the organisation’s strategic plan
+- Spending above the threshold of materiality *(Finance Committee)*
+- Findings of the audit *(Audit Committee)*
+- Material changes to the organisation’s structure and operations (e.g., establishing subsidiaries or legal obligations)
+- Taking on debt
+- Hiring/firing the organisation’s Auditor *(Audit Committee)* 
 
-_3. The Executive Council should be informed of (but no decision or advising expected):_
+##### Review Opportunity Required
 
-* Decisions relating to Core Team changes
-* The Executive Council needs to be generally informed where groups have explicit powers that affect the culture of the organisation (e.g. Decisions of the Lessons Programs governance committees and Task Forces)
+**The Board of Directors should review and advise on the following items.**
+*These items may be reporting requirements and documentation, management decisions and policies, or changes to organisation processes that the Board should have the opportunity to comment on. However, these items do not require a vote to approve. As such, the Board should be allowed to review and have ample time to comment on the following items. The Executive Director should keep a record of the Board review and comments.*
+
+- Executive Team staffing changes *(Governance & Personnel Committee)*
+- Changes to the organisational compensation philosophy *(Governance & Personnel Committee)*
+- Significant changes to the organisational chart (i.e., establishing a new team or functional area)
+- Annual report (narrative and financial)
+- Quarterly financial report
+- Annual 990 filing
+- Prioritisation and implementation plan underlying the organisation's high-level strategic goals
+
+##### Visibility Required
+
+**The Board of Directors should be informed of the following items, but no decision or advising is required.**
+*These items require visibility to the Board. The Board should be informed of the following items. However, there is no required decision or need for input. The Executive Director should keep a record of board visibility in these items.*
+
+- An annual list of highly compensated individuals appearing on the 990
+- Annual list of vendors, including funders, contractors, and others doing business with The Carpentries (part of the annual conflict of interest renewals)
 
 ### Executive Council Meetings
 

@@ -6,7 +6,7 @@ Governance
    :glob:
 
    bylaws.md
-   executive-council.md
+   board.md
    committee-guidelines.md
    task-force-guidelines.md
    lesson-program-policy.md

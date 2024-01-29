@@ -7,8 +7,8 @@ Governance
 
    bylaws.md
    executive-council.md
-   committee-policy.md
-   task-force-policy.md
+   committee-guidelines.md
+   task-force-guidelines.md
    lesson-program-policy.md
    lesson-program-governors.md
 

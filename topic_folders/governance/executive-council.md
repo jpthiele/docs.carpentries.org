@@ -10,9 +10,9 @@ The Board is responsible for strategic and organisational planning, selecting th
 - Provide feedback and vote on formal motions 
 - Dedicate four to six volunteer hours per month toward Carpentries activities (including meeting attendance)
 
-### Executive Council Officers
+### Board of Directors Officers
 
-Roles and responsibilities for Executive Council Officers are described in the [bylaws](https://carpentries.org/governance/#bylaws).
+Roles and responsibilities for Board of Directors Officers are described in the [bylaws](https://carpentries.org/governance/#bylaws).
 
 ### Board of Directors Standing Committees
 Each Board member is expected to serve on at least one, but no more than two standing committees. Serving on a specific standing committee allows Board members to bring their subject matter expertise to specific governance and operational priorities, deal with issues and projects more effectively and efficiently, and maximise time and resources between meetings. The current standing committees are described below.

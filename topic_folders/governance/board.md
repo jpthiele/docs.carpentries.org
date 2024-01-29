@@ -34,7 +34,7 @@ Contact the Board by [sending an email](mailto:board@carpentries.org) or by [fil
 
 ### Board Documentation
 
-The [Board Handbook](#) includes the following information:
+The [Board Handbook](https://docs.google.com/document/d/1Pjyw6TkCVZPYXeUp5xM96rlDJ6XzphierLs4YTgNDW8/edit) includes the following information:
 
 - Roles and responsibilities of Board Members
 - Onboarding documentation

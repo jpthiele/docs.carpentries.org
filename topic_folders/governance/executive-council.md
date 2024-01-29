@@ -29,12 +29,8 @@ The Governance and Personnel Committee assists the Board in fulfilling its overs
 **Program Committee**
 The Program Committee approves and monitors The Carpentries programs and services.
 
-### Contacting the Executive Council
-If you have a question or concern for the Executive Council, there are three ways to communicate with Executive Council Members:
-
-1. **File an [issue](https://github.com/carpentries/executive-council-info/issues) in this repository.** This is appropriate if you would like to solicit additional community feedback on a topic of general interest to the community.
-2. **Send us an [email](mailto:carpentries-executive-council@carpentries.org).** This is appropriate for communicating directly with the Executive Council but not the rest of our community.
-3. **Submit [this form](https://forms.gle/Adi54ESBi5hHmcdu5).** This is preferable if you would like confidential communication with the Executive Council, or if you would like to remain anonymous.
+### Contacting the Board
+Contact the Board by [sending an email](mailto:board@carpentries.org) or by [filling in this form](https://docs.google.com/document/d/1xXVQIfUz0hV6I2VKUawXro2n7ioN5tBFbW0FBTZ8FiU/).
 
 ### Executive Council Documentation
 

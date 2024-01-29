@@ -1,14 +1,16 @@
-## The Carpentries Executive Council
+## The Carpentries Board of Directors
 
-### Introduction
+The Board is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the Board also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation’s reputation and fundraising. The Board executes these responsibilities through meetings, regular correspondence, and collaboration via email and online platforms. In practice, each Board member is responsible for the following general tasks:
 
-The Carpentries Executive Council is the highest leadership body of The Carpentries, to whom the Executive Director of 
-the Carpentries reports. The Council comprises nine members - four elected by the community and five appointed by the Executive Council. 
+- Support the Mission and Vision of The Carpentries
+- Exemplify the Code of Conduct and Core Values
+- Ensure The Carpentries’ adherence to legal agreements and standards
+- Offer expertise to help ensure the health and success of the organisation
+- Actively participate in discussions about strategic and financial decisions
+- Provide feedback and vote on formal motions 
+- Dedicate four to six volunteer hours per month toward Carpentries activities (including meeting attendance)
 
-The Executive Council is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the Council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of quarterly Executive Council meetings and regular correspondence and collaboration via email and online platforms. For the full description of the Executive Council’s roles and responsibilities, see the Executive Council section of the [Carpentries Bylaws](bylaws.html#executive-council). 
 
-In addition to [publicly posting meeting minutes](https://github.com/carpentries/executive-council-info/tree/main/minutes), the Executive Council reports on its activities periodically in [Carpentries Clippings](https://carpentries.org/newsletter/) (the organisational newsletter) as well as through [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance).
-The Council also prepares [Yearly Summaries](https://github.com/carpentries/executive-council-info/tree/main/year-in-review) of its activities.
 
 ### Executive Council Officers
 

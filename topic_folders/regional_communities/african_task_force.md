@@ -4,7 +4,7 @@
 
 The Carpentries in Africa is a regional subcommunity of The Carpentries, a non-profit organisation where we teach researchers foundational coding and data science skills worldwide. The Carpentries hosts in-person and online Data Carpentry, Library Carpentry, and Software Carpentry workshops. With a community of more than 180 certified Instructors, our goal is to create professional growth opportunities, mentor instructors, coordinate workshops and create sustainable Carpentries communities across the African continent.  
 
-Our monthly Carpentries in Africa community calls, hosted on the 4th Thursday of each month, have been running since 2017. Here we discuss topics that interest scholars on the continent, including previous and upcoming workshops, challenges teaching in Africa, available resources, opportunities, and events. Community members can subscribe to a Slack channel and mailing list. 
+Our monthly Carpentries in Africa community calls, hosted on the 4th Thursday of each month, have been running since 2017. Here, we discuss topics that interest scholars on the continent, including previous and upcoming workshops, challenges teaching in Africa, available resources, opportunities, and events. Community members can subscribe to a Slack channel and mailing list. 
 
 A global community of 4000 certified Instructors subscribe to our monthly newsletter, Carpentries Clippings, Slack channels and mailing lists. 
 
@@ -23,7 +23,7 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 - **Monthly African Community Meetup**: Hosted each 4th Thursday of the month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you want to join, please sign up at [collaborative document](https://codimd.carpentries.org/69NZJLzLSKCZakTPsWpo7Q?both).
 
 **2024 meetings**:
-* 25 January, Topic of the Month: Reigniting The Carpentries discussion by Angelique Trusler and Kari Jordan
+* ~~25 January, Topic of the Month: Reigniting The Carpentries discussion by Angelique Trusler and Kari Jordan~~
 * 22 February, Topic of the Month: TBA
 * 28 March, Topic of the Month: Instructor Onboarding by Angelique Trusler
 * 18 April, Topic of the Month: Networking Session
@@ -35,7 +35,7 @@ A global community of 4000 certified Instructors subscribe to our monthly newsle
 * 24 October, Topic of the month: Networking session 
 * 28 November, Topic of the month: 2024 Retrospective
 
-- **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them. If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org). We can pair you up with a team at a time and date that will suit you.
+- **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them. If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org). We can pair you up with a team at a time and date that works best for you.
 
 - Angelique Trusler, the African Capacity Development Manager, is ready to help you with any questions about running **Carpentries workshops** or any other ways you can get involved with **The Carpentries in Africa**!  Contact her at [admin-afr@carpentries.org](mailto:admin-afr@carpentries.org)
 

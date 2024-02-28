@@ -1,4 +1,4 @@
-Lesson Development 
+Lesson Development
 =======================
 
 For more information on lesson development with The Carpentries, please visit `The Carpentries Curriculum Development Handbook <https://cdh.carpentries.org>`_.
@@ -8,6 +8,7 @@ For more information on lesson development with The Carpentries, please visit `T
    :glob:
 
    curriculum_advisory_committees.md
+   curriculum_onboarding.md
    lesson_infrastructure_subcommittee.md
    lesson_sprint_recommendations.md
    lesson_pilots.md

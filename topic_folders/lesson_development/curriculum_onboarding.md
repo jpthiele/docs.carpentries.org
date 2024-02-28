@@ -28,17 +28,17 @@
 ### For Core Team
 
 1. Review the video and check the following:
-    2. The presentation and recording conforms to [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
-    3. The quality of the sound and video is sufficient
-    4. The presentation includes each of the sections laid out in [the onboarding presentation template](https://docs.google.com/presentation/d/11owgvSWIIPEDIrLqEqtSrN-5gtgxxEHxkEeOJxbzh2E/edit)
-        5. What You Can Expect From This Onboarding
-        6. Curriculum Overview
-        7. Overview of Lessons (if curriculum contains multiple lessons)
-        8. Common Challenges
-        9. Acknowledgements
-    4. The length of the onboarding video is in the range of 15-45 minutes
-3. Upload video to YouTube as a private video, let YouTube auto-generate the captions
-4. After captions are ready (usually done in 24 hours), download the transcript file
-5. Edit the transcript, using the script for reference if it was shared by the video's creator(s), and upload it back to the video
-6. When you are ready to make the video public, add it to the Curriculum Onboarding playlist. This should automatically change the visibility setting.
-7. Announce the availability of the video to the community on general Slack channel, instructors TopicBox list, in newsletter, link to it from the Instructor Notes page of the relevant lesson site(s)
+    - The presentation and recording conforms to [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+    - The quality of the sound and video is sufficient
+    - The presentation includes each of the sections laid out in [the onboarding presentation template](https://docs.google.com/presentation/d/11owgvSWIIPEDIrLqEqtSrN-5gtgxxEHxkEeOJxbzh2E/edit)
+        - What You Can Expect From This Onboarding
+        - Curriculum Overview
+        - Overview of Lessons (if curriculum contains multiple lessons)
+        - Common Challenges
+        - Acknowledgements
+   - The length of the onboarding video is in the range of 15-45 minutes
+2. Upload video to YouTube as a private video, let YouTube auto-generate the captions
+3. After captions are ready (usually done in 24 hours), download the transcript file
+4. Edit the transcript, using the script for reference if it was shared by the video's creator(s), and upload it back to the video
+5. When you are ready to make the video public, add it to the Curriculum Onboarding playlist. This should automatically change the visibility setting.
+6. Announce the availability of the video to the community on general Slack channel, instructors TopicBox list, in newsletter, link to it from the Instructor Notes page of the relevant lesson site(s)

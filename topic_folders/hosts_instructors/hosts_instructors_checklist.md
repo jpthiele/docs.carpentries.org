@@ -12,7 +12,7 @@ A workshop host contacts The Carpentries Core Team about running a workshop. The
     * Be sure to account for other events and programs at your site that may affect room availability and participant availability
     * Ensure your location is [accessible](workshop_needs.html#accessibility)
 1. Recruit helpers to join your workshop. They do not need to be directly connected with The Carpentries. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two instructors.
-1. Advertise your workshop. The Workshop Administration Team can help by creating an Eventbrite registration page.
+1. Advertise your workshop. For Centrally-organised workshops the Workshop Administration Team can help by creating an Eventbrite registration page.
 1. Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administration Team creates an Eventbrite registration page, The Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
 1. Work with The Carpentries Operations Manager to make arrangements to pay the workshop fee (only for Centrally-Organised workshops). This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
 1. Make travel arrangements for visiting instructors (or communicate process to reimburse them for expenses) if the workshop is in person

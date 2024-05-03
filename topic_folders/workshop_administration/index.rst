@@ -11,6 +11,5 @@ This section outlines their work specifically as it relates to workshop administ
    :glob:
 
    expectations.md
-   workshop_admin_workflow.md    
    amy_manual.md
    email_templates.md

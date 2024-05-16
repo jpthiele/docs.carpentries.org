@@ -9,6 +9,7 @@ All mailing lists for [The Carpentries](https://carpentries.topicbox.com/groups)
 - [Middle-East and North Africa](https://carpentries.topicbox.com/groups/local-middle-east)
 
 #### Asia
+- [Bangladesh](https://carpentries.topicbox.com/groups/local-bangladesh)
 - [India](https://carpentries.topicbox.com/groups/local-india)
 
 #### Australia/New Zealand
@@ -19,6 +20,7 @@ All mailing lists for [The Carpentries](https://carpentries.topicbox.com/groups)
 
 #### Europe
 - [Germany](https://carpentries.topicbox.com/groups/local-germany)
+- [Heidelberg](https://carpentries.topicbox.com/groups/local-heidelberg)
 - [United Kingdom](https://carpentries.topicbox.com/groups/local-uk)
 - [Nordic countries](https://carpentries.topicbox.com/groups/local-nordic)
 

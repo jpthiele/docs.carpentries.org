@@ -2,7 +2,7 @@
 
 ### About us
 
-The Carpentries in Africa is a regional subcommunity of The Carpentries, a non-profit organisation where we teach researchers foundational coding and data science skills worldwide. The Carpentries hosts in-person and online Data Carpentry, Library Carpentry, and Software Carpentry workshops. With a community of more than 180 certified Instructors, our goal is to create professional growth opportunities, mentor instructors, coordinate workshops and create sustainable Carpentries communities across the African continent.  
+The Carpentries in Africa is a regional subcommunity of The Carpentries, a non-profit organisation where we teach researchers foundational coding and data science skills worldwide. The Carpentries hosts in-person and online Data Carpentry, Library Carpentry, and Software Carpentry workshops. With a community of more than 160 certified Instructors, our goal is to create professional growth opportunities, mentor instructors, coordinate workshops and create sustainable Carpentries communities across the African continent.  
 
 Our monthly Carpentries in Africa community calls, hosted on the 4th Thursday of each month, have been running since 2017. Here, we discuss topics that interest scholars on the continent, including previous and upcoming workshops, challenges teaching in Africa, available resources, opportunities, and events. Community members can subscribe to a Slack channel and mailing list. 
 

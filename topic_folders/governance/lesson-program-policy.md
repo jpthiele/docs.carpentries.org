@@ -123,30 +123,74 @@ The Executive Council will decide on one of the options below:
 
 #### Phase 2: Incubation
 
-Once approved for Incubation, the Lesson Project must accomplish specific requirements within a defined time frame to be agreed upon between the Lesson Project and The Carpentries. The Carpentries will also have specific responsibilities toward the Lesson Project during this time.
+Once approved for Incubation, the Lesson Project must accomplish specific requirements within a defined time frame (maximum 18 months) to be agreed upon between the Lesson Project and The Carpentries. 
+The Carpentries will also have specific responsibilities toward the Lesson Project during this time (see Role of The Carpentries During Incubation).
 
 During the Incubation phase, the Lesson Project will complete the following tasks:
-- Establish a culturally and linguistically diverse Lesson Program Committee (LPC) of at least three people to serve as a governance body and point of contact with The Carpentries.
-- The LPC should meet at least quarterly to oversee Lesson Project activities.
-- The LPC should create a document describing this group's roles and responsibilities.
-- The LPC must demonstrate experience having discussions and making decisions by providing The Carpentries with access to open versions of meeting minutes.
-- The LPC must agree for the Lesson Project to be included in Organisational Membership agreements.
-- Agree to abide by The Carpentries Code of Conduct (CoC)
-- Assign at least three maintainers to maintain each of the lessons
-- Create an onboarding document and process for existing Carpentries instructors so that they can determine whether or not they should consider teaching these lessons
-- Create a plan to recruit additional instructors for the program
-- Agree to have at least one trained instructor for each workshop
-- Run pilot workshops
-- Collect and analyse post-workshop feedback
-- Complete and refine core curriculum, incorporating relevant workshop feedback
-- Assign one or two leads for workshop coordination and communications work
-- Agree to The Carpentries workshop fee structure
 
+##### 1. Policies and Processes
+_Goal: to ensure compliance with existing Carpentries policies and processes._
+
+1. Agree to abide by The Carpentries Code of Conduct (CoC)
+1. Agree to have at least one trained instructor for each workshop
+1. Agree to The Carpentries workshop fee structure
+1. Define at least one curriculum that fits The Carpentries two-day workshop structure
+1. Agree for the Lesson Project to be included in Organizational Membership agreements
+
+##### 2. Governance
+_Goal: to ensure consistency with existing lesson program governance, and accountability for leading the work during Incubation._
+
+1. Establish a culturally and linguistically diverse Lesson Program Committee (LPC) of at least three people to serve as a governance body and point of contact with The Carpentries.
+1. The LPC should create a document describing this group’s roles and responsibilities.
+1. The LPC should meet at least quarterly to oversee Lesson Project activities.
+1. The LPC must demonstrate experience having discussions and making decisions by providing The Carpentries Core Team and Board of Directors with access to meeting minutes.
+
+##### 3. Contributions
+_Goal: to ensure a community of sufficient size and health exists to support the new Lesson Program after adoption._
+
+1. Assign at least three maintainers to maintain each of the lessons, without unreasonable overlap between the maintainer teams of each lesson 
+   (i.e. the same people maintaining multiple lessons)
+1. Create an onboarding document and process for existing Carpentries instructors so that they can determine whether or not they should consider teaching these lessons
+1. Create a plan to recruit additional instructors for the program
+1. Create a plan to recruit new contributors to the program’s lessons
+1. Demonstrate community support for the lessons 
+   (for example by providing metrics on GitHub activity, attendance at collaboration sessions, feedback from instructors, or similar metrics) 
+
+##### 4. Teaching
+_Goal: to ensure quality of curriculum, and demand for workshops._
+
+1. Run pilot workshops to gather feedback on the curriculum and confirm that it is ready for teaching by the Instructor community
+1. Collect and analyze post-workshop feedback
+1. Complete and refine core curriculum, incorporating relevant workshop feedback
+1. Assign one or two leads for workshop coordination and communications work
+1. A list of workshops run during the Incubation Phase, or in the past year (whichever is the longer period of time)
+1. A list of organizations which have expressed interest in hosting centrally organized workshops using the Lesson Project’s curriculum
+1. A list of people who are able to teach the Lesson Project’s curriculum/curricula, whether or not they are already certified Carpentries Instructors
+1. Provide details of any special requirements for the Lesson Project’s workshops, for example resources or infrastructure that The Carpentries would need to provide for workshops to succeed.
+
+##### 5. Supplementary Materials: (optional but recommended)
+
+- Letters of interest from organizations wanting to host workshops. 
+  These letters of interest might indicate that the organisation 
+    1. would be interested in requesting a centrally-organised workshop from the Lesson Program
+    1. would explore organisational membership to build their own capacity for teaching the Lesson Program's workshops
+    1. would host self-organised workshops for the Lesson Program
+- Summary of where funding support has been sought for this work, whether or not applications were successful
+- Summary of how personal time has been dedicated to this project 
+  (i.e. how much has been volunteer hours and how much has been supported through employers) - 
+  if supported by employers, what is the outlook for that support continuing?
+- Summary of any infrastructure needs for supporting the Lesson Project’s workshops, along with a list of community members who are able to help fulfill any special requirements described in 4.8 above, and/or a plan for onboarding other community members to support it
+
+##### Role of The Carpentries During Incubation
 During the Incubation phase, The Carpentries will:
-- Provide the Lesson Project with access to our database system (currently AMY) for workshop tracking
-- Allow the use of our survey infrastructure (currently Typeform)
+
+- Allow access to pre- and post-workshop survey results through The Carpentries hosted infrastructure
 - Post information on The Carpentries website regarding the Incubation of the Lesson Project as well as through other communication channels and at instructor training workshops
 - Provide a Carpentries team member to meet with the Lesson Project for feedback or advice on a regular basis, with the frequency to be determined mutually by the Lesson Project and The Carpentries.
+- Provide templates, workflows, and advice to support the Lesson Program in running pilot workshops, attracting new contributors, and other activities listed above
+- Assess how many current team members would be able to teach the workshops of the new Lesson Program
+- Add Lesson Project community events to The Carpentries community calendar
+
 
 **Application and Approval for Official Lesson Program Adoption**
 

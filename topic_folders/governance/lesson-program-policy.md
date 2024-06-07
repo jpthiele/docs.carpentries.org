@@ -213,3 +213,4 @@ Update log:
 - [Approved 2018-11-01](https://github.com/carpentries/executive-council-info/issues/5) by the Executive Council
 - Updated 2019-12-29 to include Lesson Program Incubation Roadmap
 - Updated 2021-12-21 to include the Lesson Program Governance Policy
+- Updated 2024-05-23 to expand and clarify the Lesson Program Incubation Roadmap

@@ -23,7 +23,7 @@ will automatically be renewed.
 
 Active status may be renewed by either:  
 A) participating in curriculum and community activities during the prior year, as described below OR  
-B) meeting with the Director of Instructor Training (DIT) to catch up on curriculum and community changes and discuss plans for the coming year  
+B) meeting with the Director of Workshops and Training to catch up on curriculum and community changes and discuss plans for the coming year  
 
 Trainers who do not renew their Active status before the deadline will have their status changed to Alumni. Instructions for Alumni returning to 
 Active status are detailed below.
@@ -63,8 +63,8 @@ Trainer Alumni may elect to:
 - serve in a Helper role at Carpentries Instructor Training events
 
 A Trainer who wishes to return to Active status will have a different path depending on the amount of time they’ve been inactive:
-- 0-12 months: meet with Director of Instructor Training to catch up on latest news & discuss plans for re-activating
-- more than 12 months: review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Instructor Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements
+- 0-12 months: meet with Director of Workshops and Training to catch up on latest news & discuss plans for re-activating
+- more than 12 months: review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Workshops and Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements
 
 
 

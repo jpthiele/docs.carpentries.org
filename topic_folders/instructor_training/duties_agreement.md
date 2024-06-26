@@ -23,7 +23,7 @@ will automatically be renewed.
 
 Active status may be renewed by either:  
 A) participating in curriculum and community activities during the prior year, as described below OR  
-B) meeting with the Director of Instructor Training (DIT) to catch up on curriculum and community changes and discuss plans for the coming year  
+B) meeting with the Director of Workshops and Training to catch up on curriculum and community changes and discuss plans for the coming year  
 
 Trainers who do not renew their Active status before the deadline will have their status changed to Alumni. Instructions for Alumni returning to 
 Active status are detailed below.

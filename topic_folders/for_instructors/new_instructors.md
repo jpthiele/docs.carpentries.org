@@ -68,7 +68,7 @@ applicants from a single institution will generally not be admitted at the same 
 does not expire, and registration codes may be used for any online training event between 1 month and 1 week prior to its start date.
 
 How do we score applicants? See our [scoring rubric](https://github.com/carpentries/Instructor-training/blob/gh-pages/files/rubric.md#).
-Applications below a threshold score may be declined. Howewver, we welcome enthusiastic instructors to correspond and re-apply.
+Applications below a threshold score may be declined. However, we welcome enthusiastic instructors to correspond and re-apply.
 
 To request training as an Instructor, please fill out this [form](https://amy.carpentries.org/forms/request_training/).
 

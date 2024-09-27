@@ -49,34 +49,17 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
 
 #### Incidents involving Core Team members
 
-(FIXME: Introduction on responsibility, unclear if this should be done by CoCc or by individual instructors as well)
-(FIXME: maybe shortly define what the core team is?)
+If a CoC report arises that involve one or more members of The Carpentries [Core Team](https://carpentries.org/team/),
+the CoC committee must determine whether that incident has the potential to be considered harassment. If harassment is involved, 
+or if there is doubt as to whether
+the incident could be considered harassment, the CoC committee will notify the Core Team liaison. The Core Team liaison will
+alert the appropriate Human Resources personnel and/or the Executive Team as appropriate. If a report involves the Core Team CoCc
+liaison, the CoCc will contact the Executive Director directly.
 
-With regards to employment, the [Core Team members](https://carpentries.org/team/) 
-fall into two categories. Those based in the U.S. are employees of Community Initivatives (CI) 
-and those not based in the U.S. are employees of a professional employer organization (PEO).
-
-For PEO employees the PEO has to be contacted for country-specific advice. 
-(FIXME: Who is responsible and can even find out the respective PEO? The CoCc?)
-
-For CI employees the following points have to be observed
-
-* If there are CoC reports either about or from (or in any way involving) CI employees,
-  and those reports have the potential to rise to the level of harassment 
-  as defined by CI's handbook, 
-  CI HR must be made aware immediately.
-* In cases that are definitely not harassment, 
-  it is ok to handle through CoCc without involving CI. 
-  Examples of types of things that might be reported to the CoCc 
-  but that are not harassment are a workshop participant swearing at an Instructor, 
-  or a community member who is rude and pushy 
-  but not in any way related to sexual advances or protected categories.
-
-If a report involving any Core Team member is susceptible to meet the appropriate
-criteria for harassment, the CoCc should contact the Core Team liaison to the
-CoCc. The Core Team CoCc liaison will elevate anything that comes in by or about
-Core Team members to the Executive Team if appropriate and to Community
-Initiatives or the PEO if needed. If a report involves the Core Team CoCc
-liaison, the CoCc needs to contact the Executive Director directly.
+In cases that are definitely not harassment, it is ok to handle incidents through the CoCc without involving Human Resources. 
+Examples of types of things that might be reported to the CoCc 
+but that are not harassment are a workshop participant swearing at an Instructor, 
+or a community member who is rude and pushy 
+but not in any way related to sexual advances or protected categories.
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2

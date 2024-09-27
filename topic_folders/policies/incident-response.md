@@ -49,7 +49,7 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
 
 #### Incidents involving Core Team members
 
-If a CoC report arises that involve one or more members of The Carpentries [Core Team](https://carpentries.org/team/),
+If a CoC report arises that involves one or more members of The Carpentries [Core Team](https://carpentries.org/team/),
 the CoC committee must determine whether that incident has the potential to be considered harassment. If harassment is involved, 
 or if there is doubt as to whether
 the incident could be considered harassment, the CoC committee will notify the Core Team liaison. The Core Team liaison will
